@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "thread-common.h": "c",
+        "nfapi_interface.h": "c",
+        "stdio.h": "c",
+        "limits": "c",
+        "typeinfo": "c",
+        "nr_servingcellconfigcommon.h": "c",
+        "x2ap_messages_def.h": "c",
+        "assertions.h": "c",
+        "platform_types.h": "c",
+        "types.h": "c",
+        "utils.h": "c",
+        "backtrace.h": "c",
+        "common_lib.h": "c",
+        "t.h": "c",
+        "openairinterface5g_limits.h": "c",
+        "log.h": "c",
+        "lte_asn_constant.h": "c",
+        "nr_asn_constant.h": "c"
+    }
+}
